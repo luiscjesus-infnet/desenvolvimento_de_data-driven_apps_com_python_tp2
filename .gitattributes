@@ -1,0 +1,6 @@
+# Normaliza as quebras de linha dos arquivos de texto
+* text=auto
+
+# Arquivos binarios: o Git nao pode mexer nas quebras de linha,
+# senao o arquivo e corrompido ao ser clonado.
+*.pdf binary
