@@ -1,0 +1,8 @@
+fastapi[standard]
+langchain
+langchain-core
+langchain-huggingface
+transformers
+torch
+sentencepiece
+sacremoses
